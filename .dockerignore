@@ -1,0 +1,10 @@
+### Docker ###
+Dockerfile
+.dockerignore
+
+## Git ##
+.git
+.gitignore
+
+### macOS ###
+.DS_Store
